@@ -12,7 +12,7 @@
 
 Методы:
 - **Current Weather**: `https://api.openweathermap.org/data/2.5/weather`
-- **5-Day Forecast**: `https://api.openweathermap.org/data/2.5/forecast`
+- **Forecast**: `https://api.openweathermap.org/data/2.5/forecast`
 
 
 ## Основной функционал
